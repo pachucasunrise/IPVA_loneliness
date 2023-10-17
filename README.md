@@ -1,9 +1,8 @@
 # IPVA_loneliness
-# July 2022
-
+# October 2023
 Stata (.do) code pertaining to the paper 'Being Silenced, Loneliness and Being Heard: understanding pathways to Intimate Partner Violence & Abuse in young adults. A mixed-methods study. Authors: Maria Barnes, Eszter Szilassy, Annie Herbert, Jon Heron, Gene Feder, Abigail Fraser, Laura D Howe, Christine Barter.
 
-*The paper is currently in press with BMC Public Health
+*The paper was published in 2022, in BMC Public Health: https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13990-4
 
 Short abstract: 
 Background - International research shows the significance and impact of intimate partner violence and abuse (IPVA) as a public health issue for young adults. There is a lack of qualitative research exploring pathways to IPVA.
